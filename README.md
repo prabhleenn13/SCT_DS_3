@@ -12,7 +12,7 @@ The goal of this project is to predict whether a client will subscribe to a term
 |-------|-------------|
 | `bank_marketing_decision_tree.ipynb` | Jupyter notebook containing the complete workflow: data loading, exploration, preprocessing, model training, evaluation, and visualization |
 | `full_dataset_decision_tree.png` | Visualization of the decision tree trained on the entire dataset (max depth = 5) |
-| `train_test_decision_tree.png` | Visualization of the decision tree trained on a train-test split (80/20 split, stratified) |
+
 
 ---
 
